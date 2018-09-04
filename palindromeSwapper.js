@@ -9,6 +9,7 @@ function palindromeSwapper(str) {
   let newStr = '';
   for (var i = 0; i < str.length; i++) {
     debugger;
+    
     for (var j = 0; j < str.length; j++) {
       if (i === j) {
         debugger;
